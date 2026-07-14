@@ -20,7 +20,7 @@ The pre-processed datasets used in experiments are available in the folders, nam
 The folder of Experiments_[name of dataset] contains the source codes of L2DHF, baseline and state-of-the-art (SOTA) models. 
 
 ## Classifiers of Ensemble
-These are the files of fine-tuned, optimised, and trained classifiers, which are used by experiments to build the Predictive AI and A2C models. They are placed in ClassifiersOfEnsemble_[name of dataset] folder for experiments related to each dataset.
+These are the files of fine-tuned, optimised, and trained classifiers, which are used in experiments to build the Predictive AI and A2C models. They are placed in ClassifiersOfEnsemble_[name of dataset] folder for experiments related to each dataset.
 
 ## Performance Evaluation
 The PerformanceEvaluation_[name of dataset] folder provides the source codes for generating the performance values and graphs related to the used dataset in the article. 
